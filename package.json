@@ -1,0 +1,8 @@
+{
+  "name": "keyrus-studio-v4",
+  "version": "4.0.0",
+  "private": true,
+  "description": "Keyrus Studio local AI image generator powered by OpenAI Images API",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
